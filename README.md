@@ -32,7 +32,7 @@ A draggable **quota & cost dashboard** for the [DeepSeek Harness](https://github
 ### 安装
 
 ```sh
-dsh plugin --profile web add dsh-quota-dashboard
+dsh plugin --profile web add @wangyong1972/dsh-quota-dashboard
 # 重启 dsh web（bundle 层启动时加载），然后硬刷新浏览器（Cmd+Shift+R）
 ```
 
@@ -99,7 +99,7 @@ Also:
 ### Install
 
 ```sh
-dsh plugin --profile web add dsh-quota-dashboard
+dsh plugin --profile web add @wangyong1972/dsh-quota-dashboard
 # restart `dsh web` (bundle layers load at boot), then hard-refresh (Cmd+Shift+R)
 ```
 
