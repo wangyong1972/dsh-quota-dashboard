@@ -31,12 +31,16 @@ A draggable **quota & cost dashboard** for the [DeepSeek Harness](https://github
 
 ### 安装
 
+**方式一：npm（推荐，一行安装）**
+
 ```sh
 dsh plugin --profile web add @wangyong1972/dsh-quota-dashboard
 # 重启 dsh web（bundle 层启动时加载），然后硬刷新浏览器（Cmd+Shift+R）
 ```
 
-也可从源码安装（开发）：
+已发布到 npm：[![npm](https://img.shields.io/npm/v/@wangyong1972/dsh-quota-dashboard)](https://www.npmjs.com/package/@wangyong1972/dsh-quota-dashboard)
+
+**方式二：从源码安装（开发/贡献）**
 
 ```sh
 git clone https://github.com/wangyong1972/dsh-quota-dashboard
@@ -98,12 +102,16 @@ Also:
 
 ### Install
 
+**Option 1: npm (recommended, one line)**
+
 ```sh
 dsh plugin --profile web add @wangyong1972/dsh-quota-dashboard
 # restart `dsh web` (bundle layers load at boot), then hard-refresh (Cmd+Shift+R)
 ```
 
-From source (development):
+Published on npm: [![npm](https://img.shields.io/npm/v/@wangyong1972/dsh-quota-dashboard)](https://www.npmjs.com/package/@wangyong1972/dsh-quota-dashboard)
+
+**Option 2: from source (development / contributions)**
 
 ```sh
 git clone https://github.com/wangyong1972/dsh-quota-dashboard
