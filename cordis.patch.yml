@@ -1,0 +1,6 @@
+# dsh-quota-dashboard — OpenRouter + DeepSeek 统一额度面板（可拖拽）。
+# Host half registers GET /api/quota-dashboard; the package also declares a
+# dsh.client web bundle that paints the draggable overlay widget.
+- insert:
+    - id: quota-dashboard
+      name: dsh-quota-dashboard
