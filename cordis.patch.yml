@@ -3,4 +3,4 @@
 # dsh.client web bundle that paints the draggable overlay widget.
 - insert:
     - id: quota-dashboard
-      name: dsh-quota-dashboard
+      name: '@wangyong1972/dsh-quota-dashboard'

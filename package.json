@@ -1,6 +1,6 @@
 {
   "name": "@wangyong1972/dsh-quota-dashboard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Draggable quota/cost dashboard for the dsh web GUI: combines OpenRouter and DeepSeek balances and spend (official APIs + local ledger) in one movable card.",
   "type": "module",
   "main": "lib/index.js",
